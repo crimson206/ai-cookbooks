@@ -14,6 +14,7 @@ def write_app():
     st.write("""This app is an implementation example of basic chatbot interfaces, regenerate, continue, and delete.
              \nEndpoint is not necessary to test the functionalities. With the default setting, test the buttons with prompts. 
              \nFor more information, check [README.md of this app](https://github.com/crimson206/streamlit_blog/blob/main/app_cookbook/base_interface/README.md) or [README.md of this repository](https://github.com/crimson206/streamlit_blog/blob/main/README.md)
+             \nYou don't have any endpoint? Visit my [OpenAI Proxy Shortcut](https://github.com/crimson206/openai_proxy_shortcut) repository. 
              """)
 
 with st.sidebar:
