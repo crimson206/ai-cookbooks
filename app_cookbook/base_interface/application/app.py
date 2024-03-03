@@ -13,6 +13,7 @@ def write_app():
     st.header('The first chatbot experience.')
     st.write("""This app is an implementation example of basic chatbot interfaces, regenerate, continue, and delete.
              \nEndpoint is not necessary to test the functionalities. With the default setting, test the buttons with prompts. 
+             \nFor more information, check [README.md of this app](https://github.com/crimson206/streamlit_blog/blob/main/app_cookbook/base_interface/README.md) or [README.md of this repository](https://github.com/crimson206/streamlit_blog/blob/main/README.md)
              """)
 
 with st.sidebar:
